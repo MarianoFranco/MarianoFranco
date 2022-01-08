@@ -10,9 +10,9 @@ Here you can find some of my projects.
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6??style=plastic&logo=appveyor&logo=css3)
 ![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=appveyor&logo=javascript)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoFranco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoFranco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianoFranco&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianoFranco&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Contact me:
