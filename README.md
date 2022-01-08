@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Mariano 👋
 
 I'm a front-end development student at Noroff - School of technology and digital media in Oslo.
+I really enjoy creating websites, especially the effects and functionality part. For this I use HTML, CSS and JS. I am currently trying to learn as much as possible about JavaScript and will soon delve into frameworks, more specifically in React JS.
 Here you can find some of my projects.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Technologies: 
 
