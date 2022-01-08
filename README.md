@@ -6,6 +6,8 @@ Here you can find some of my projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianoFranco)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoFranco)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Technologies: 
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=appveyor&logo=html5&logoColor=white)
