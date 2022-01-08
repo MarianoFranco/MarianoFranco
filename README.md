@@ -17,6 +17,10 @@ Here you can find some of my projects.
 
 #### Contact me:
 
+If you want to contact with me, just write me to my LinkedIn, I will be happy to answer any questions you have about me.
+
+https://www.linkedin.com/in/mariano-david-franco-gallo/ 
+
 <!--
 **MarianoFranco/MarianoFranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
